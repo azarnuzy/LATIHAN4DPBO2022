@@ -34,11 +34,13 @@ py [name].py
 
 ### Result
 - Input
-<img src="https://github.com/azarnuzy/LATIHAN4DPBO2022/blob/master/Screenshot/inputShip.jpg" align="left"> 
- <img src="https://github.com/azarnuzy/LATIHAN4DPBO2022/blob/master/Screenshot/inputAirplane.jpg" align="left"> 
- <img src="https://github.com/azarnuzy/LATIHAN4DPBO2022/blob/master/Screenshot/inputDriver.jpg" align="left"> 
+<img src="https://github.com/azarnuzy/LATIHAN4DPBO2022/blob/master/Screenshot/inputShip.jpg"> 
+ <img src="https://github.com/azarnuzy/LATIHAN4DPBO2022/blob/master/Screenshot/inputAirplane.jpg"> 
+ <img src="https://github.com/azarnuzy/LATIHAN4DPBO2022/blob/master/Screenshot/inputDriver.jpg"> 
 <br/>
+
+
 - Output
-<img src="https://github.com/azarnuzy/LATIHAN4DPBO2022/blob/master/Screenshot/outputShip.jpg" align="left"> 
-<img src="https://github.com/azarnuzy/LATIHAN4DPBO2022/blob/master/Screenshot/outputAirplane.jpg" align="left"> 
-<img src="https://github.com/azarnuzy/LATIHAN4DPBO2022/blob/master/Screenshot/outputDriver.jpg" align="left"> 
+<img src="https://github.com/azarnuzy/LATIHAN4DPBO2022/blob/master/Screenshot/outputShip.jpg"> 
+<img src="https://github.com/azarnuzy/LATIHAN4DPBO2022/blob/master/Screenshot/outputAirplane.jpg"> 
+<img src="https://github.com/azarnuzy/LATIHAN4DPBO2022/blob/master/Screenshot/outputDriver.jpg"> 
