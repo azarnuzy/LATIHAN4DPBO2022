@@ -1,0 +1,108 @@
+Wonder of the Seas
+0
+France
+Diesel
+Cruise Ships
+6988
+Symphony of the Seas
+4
+Switzerland
+Diesel
+Cruise Ships
+6680
+Harmony of the Seas
+6
+Netherland
+Diesel
+Cruise Ships
+6687
+Oasis of the Seas
+13
+Spain
+Diesel
+Cruise Ships
+6780
+Allure of the Seas
+12
+Denmark
+Diesel
+Cruise Ships
+6780
+Airbus A333-300
+30
+60
+AVTUR
+Airbus Cargo
+440
+Airbus A340-300
+29
+60
+AVTUR
+Airbus Cargo
+295
+Airbus A340-500
+16
+55
+AVTUR
+Airbus Cargo
+313
+Airbus A350-900
+1
+54
+AVTUR
+Airbus Cargo
+340
+Boeing 747-400
+24
+46
+AVTUR
+Airbus
+347
+John Allison
+Male
+1234567890
+0987654321
+Apple Corp
+United States
+56783
+22 March 2026
+Sedan
+Marta Bara
+Male
+1234567890
+0987654321
+Samsung Corp
+South Korea
+56783
+22 February 2024
+Minibus
+David Walls
+Male
+1234567890
+0987654321
+Shells
+France
+56783
+02 January 2027
+Bus
+Jimmy Martin
+Male
+1234567890
+0987654321
+Amazon
+United States
+56783
+22 March 2026
+Truck
+Hill Helington
+Male
+1234567890
+0987654321
+Microsoft
+United States
+56783
+22 March 2026
+Minivan
+
+
+

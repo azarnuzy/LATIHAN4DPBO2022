@@ -34,5 +34,5 @@ class Ship(Vehicle):
 
     # menampilkan atribut Ship
     def printShip(self):
-        print("type : " + self.getType())
-        print("Fuel Type : " + self.getCountryOfManufacture())
+        print("type: " + self.getType())
+        print("Fuel Type: " + self.getCountryOfManufacture())

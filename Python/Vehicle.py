@@ -48,11 +48,11 @@ class Vehicle:
 
     # method move
     def move(self):
-        print("This " + self.getName + "is moving")
+        print("This " + self.getName() + "is moving")
 
     # menampilkan atribut Vehicle
     def printVehicle(self):
-        print("Name : " + self.getName())
-        print("Fuel Type : " + self.getFuelType())
-        print("Max Passengers : " + str(self.getMaxPassengers()))
-        print("Age : " + str(self.getAge()))
+        print("Name: " + self.getName())
+        print("Fuel Type: " + self.getFuelType())
+        print("Max Passengers: " + str(self.getMaxPassengers()))
+        print("Age: " + str(self.getAge()))

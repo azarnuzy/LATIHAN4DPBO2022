@@ -5,7 +5,7 @@ from Vehicle import Vehicle
 # kelas Airplane
 
 
-class Airplane:
+class Airplane(Vehicle):
     # private atribute dari kelas Airplane
     __type = ""
     __wingsLength = 0
@@ -34,5 +34,5 @@ class Airplane:
 
     # menampilkan atribut Airplane
     def printAirplane(self):
-        print("type      : " + self.getType())
-        print("Wings Length : " + str(self.getWingsLength()))
+        print("type: " + self.getType())
+        print("Wings Length: " + str(self.getWingsLength()) + " meters")

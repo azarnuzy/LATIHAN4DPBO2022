@@ -41,6 +41,6 @@ class Person:
 
     # menampilkan atribut Person
     def printPerson(self):
-        print("Name   : " + self.getName())
-        print("NIK    : " + self.getNIK())
-        print("Gender : " + self.getGender())
+        print("Name: " + self.getName())
+        print("NIK: " + self.getNIK())
+        print("Gender: " + self.getGender())
